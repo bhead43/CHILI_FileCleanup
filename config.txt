@@ -1,0 +1,3 @@
+path=C:\Users\bhead\Documents\Test_Environment\Marketplace - Copy
+dateToDelete=2020-12-01
+ressourceType=Assets
